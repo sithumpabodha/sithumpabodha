@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm [Sithum Pabodha] 👋
 
-<!--
-**sithumpabodha/sithumpabodha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Technologies & Tools
+- **Languages:** Python, JavaScript, C++
+- **Frameworks:** React, Django, Flask
+- **Tools:** Git, Docker, Jenkins
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Machine Learning
+- Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+### 📫 How to reach me:
+- [Email](mailto:sithumpabodha@gmail.com)
+- [LinkedIn]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/sithum-pabodha-505300220/)
