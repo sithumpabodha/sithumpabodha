@@ -1,4 +1,4 @@
-# Hello, I'm [Sithum Pabodha] 👋
+# Hello, I'm Sithum Pabodha 👋
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Python, JavaScript, C++
@@ -14,4 +14,4 @@
 
 ### 📫 How to reach me:
 - [Email](mailto:sithumpabodha@gmail.com)
-- [LinkedIn]([https://www.linkedin.com/in/your_username/](https://www.linkedin.com/in/sithum-pabodha-505300220/)
+- [LinkedIn](https://www.linkedin.com/in/sithum-pabodha-505300220/)
