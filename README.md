@@ -6,8 +6,9 @@
 - **Tools:** Git, Docker, Jenkins
 
 ### 🌱 Currently Learning
-- Machine Learning
-- Data Science
+- Android and web applications
+- Embedded Systems and robotics
+- Cyber Security
 
 ### 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithumpabodha&show_icons=true&theme=radical)
