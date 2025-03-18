@@ -1,8 +1,8 @@
 # Hello, I'm Sithum Pabodha 👋
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** React, Django, Flask
+- **Languages:** Java,Python, JavaScript
+- **Frameworks:** Flutter,React, Laravel
 - **Tools:** Git, Docker, Jenkins
 
 ### 🌱 Currently Learning
