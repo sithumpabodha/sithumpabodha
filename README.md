@@ -1,13 +1,14 @@
 # Hello, I'm Sithum Pabodha 👋
 
 ### 🛠️ Technologies & Tools
-- **Languages:** Java,Python, JavaScript
+- **Languages:** Java,Python, JavaScript , C++
 - **Frameworks:** Flutter,React, Laravel
 - **Tools:** Git, Docker, Jenkins
 
 ### 🌱 Currently Learning
 - Android and web applications
 - Embedded Systems and robotics
+- Networking and DevOps
 - Cyber Security
 
 ### 📈 GitHub Stats
