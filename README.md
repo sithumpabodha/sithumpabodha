@@ -2,7 +2,7 @@
 
 ### 🛠️ Technologies & Tools
 - **Languages:** Java,Python, JavaScript , C++
-- **Frameworks:** Flutter,React, Laravel
+- **Frameworks:** Flutter, React, Laravel
 - **Tools:** Git, Docker, Jenkins , Cisco Packet Tracer , Android Studio
 
 ### 🌱 Currently Learning
